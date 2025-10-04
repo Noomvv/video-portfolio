@@ -4,15 +4,15 @@ export default function VideoGrid() {
   const videos = [
     {
       id: 1,
-      project: "Коммерческий ролик для бренда одежды",
-      software: "Premiere Pro + After Effects",
-      videoUrl: "/videos/1.mp4" // Замените на реальные пути
+      project: "Коммерческий ролик для бренда HOFMANN",
+      software: "DaVinci Resolve",
+      videoUrl: "/video/HOFMANN_aug26.edited.mp4" // Замените на реальные пути
     },
     {
       id: 2,
-      project: "Короткометражный фильм 'Рассвет'",
+      project: "Коммерческий ролик для бренда HOFMANN",
       software: "DaVinci Resolve",
-      videoUrl: "/videos/2.mp4"
+      videoUrl: "/video/HOFMANN_sep19(акция).mp4"
     },
     {
       id: 3,
