@@ -12,6 +12,8 @@ export default function Hero() {
       />
       <div className={styles.content}>
         <h1>Mun Vladimir</h1>
+        <p>Телефон: +99894 433 37 08</p>
+        <p>Telegram: <a href='https://t.me/v_v_moon'>v_v_moon</a></p>
         <p>Видеомонтажёр с опытом работы более двух лет. Специализируюсь на создании коммерческих видео. Работал над проектами для таких брендов, как Hofmann, Smeg, PostPoint, Ahead Group, а также для частных школ.</p>
         <div className={styles.skills}>
           {skills.map((skill, index) => (
